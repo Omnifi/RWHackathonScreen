@@ -1,0 +1,12 @@
+{
+  "name": "RWHackathonScreen",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Omnifi/RWHackathonScreen.git"
+  },
+  "scripts": {
+    "start": "surge --domain rwhackathonscreen.surge.sh"
+  },
+  "license": "MIT"
+}
